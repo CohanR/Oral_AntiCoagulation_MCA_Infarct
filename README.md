@@ -19,16 +19,16 @@ Key elements of SEM:
 
 ### Code Explanation:
 
-# Simulating Data**: 
+# Simulating Data: 
     - You initialise a seed for reproducibility (np.random.seed(42)).
     - Simulate data for different treatments, BMI, and SBP. 
     - The simulation determines the occurrence of MCA infarcts and hemorrhagic processes based on various conditions and treatments.
 # Specifying the Model: 
-    - The model you've specified has two main parts: the equation for `MCA_Infarcts` and the equation for `Hemorrhagic_Processes`.
-    - You're trying to determine how different treatments (and other factors) predict `MCA_Infarcts` and `Hemorrhagic_Processes`.
+    - The model you've specified has two main parts: the equation for MCA_Infarcts and the equation for Hemorrhagic_Processes.
+    - You're trying to determine how different treatments (and other factors) predict MCA_Infarcts and Hemorrhagic_Processes.
 # Fitting the Model:
     - The SEM model is fitted using the provided data. 
-    - The `inspect()` method then provides estimates, standard errors, and p-values for the coefficients of the relationships specified in the model.
+    - The inspect() method then provides estimates, standard errors, and p-values for the coefficients of the relationships specified in the model.
 
 # Visualizing the Model:
     - Using the `networkx` library, you've visualized the relationships among variables, represented by directed edges between nodes.
