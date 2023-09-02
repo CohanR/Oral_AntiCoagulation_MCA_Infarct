@@ -47,7 +47,7 @@ Hemorrhagic Processes:
 ### Overall:
 
 - DOAC treatment might be effective in reducing MCA infarcts.
-- However, both DOAC and Warfarin treatments seem to increase the chances of Hemorrhagic Processes, especially if combined with high BMI or high SBP.
-- Warfarin's impact on MCA infarcts isn't statistically significant, but its impact on Hemorrhagic Processes is strong and significant.
+- However, both DOAC and Warfarin treatments seem to increase the chances of hemorrhagic processes, especially if combined with high BMI or high SBP.
+- Warfarin's impact on MCA infarcts isn't statistically significant, but its impact on hemorrhagic processes is strong and significant.
 - High BMI and high SBP individually increase the chances of Hemorrhagic Processes.
   
